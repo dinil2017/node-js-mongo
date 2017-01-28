@@ -1,3 +1,3 @@
 # node-js-mongo
 
-This is a basic node js mongo database based web application
+This is a basic node js mongo database based web application.
