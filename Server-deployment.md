@@ -2,9 +2,9 @@
 # node-js application server deployment
 ####################################################################
 
-Application: Node JS sample application
-Server : Digital Ocean
-Database : MongoDB
+- Application: Node JS sample application
+- Server : Digital Ocean
+- Database : MongoDB
 
 
 References:
